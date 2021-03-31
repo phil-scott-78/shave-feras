@@ -1,0 +1,140 @@
+<ModOps>
+	<ModOp Type="replace" GUID='192450' Path="/Values/FactoryUpgrade">
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>40</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<!-- Agricultural Revolution -->
+	<ModOp Type="replace" GUID='190868' Path="/Values/FactoryUpgrade">
+		<!-- Angelic Anthrax Vaccine -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<!-- Machines -->
+	<ModOp Type="replace" GUID='190855' Path="/Values/FactoryUpgrade">
+		<!-- Maimer of Mustelids -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<ModOp Type="replace" GUID='190858' Path="/Values/FactoryUpgrade">
+		<!-- Teutonic technical secateurs -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<ModOp Type="replace" GUID='190861' Path="/Values/FactoryUpgrade">
+		<!-- Patent steel seed drill -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<ModOp Type="replace" GUID='190861' Path="/Values/FactoryUpgrade">
+		<!-- Fine handheld power auger -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<ModOp Type="replace" GUID='190900' Path="/Values/FactoryUpgrade">
+		<!-- The watchmaker's loupe -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<ModOp Type="replace" GUID='190904' Path="/Values/FactoryUpgrade">
+		<!-- Long range bottom trawl -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<ModOp Type="replace" GUID='190913' Path="/Values/FactoryUpgrade">
+		<!-- Mickelton's hydraulic compacting press -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+
+	<!-- unique inventions-->
+	<ModOp Type="replace" GUID='190841' Path="/Values/FactoryUpgrade">
+		<!-- The Cutting Edge -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<ModOp Type="replace" GUID='190845' Path="/Values/FactoryUpgrade">
+		<!-- Lovelyman's grinding machine -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<ModOp Type="replace" GUID='190878' Path="/Values/FactoryUpgrade">
+		<!-- Simmon's electrifying elevator -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<ModOp Type="replace" GUID='190885' Path="/Values/FactoryUpgrade">
+		<!-- The hopedale loop -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<ModOp Type="replace" GUID='190893' Path="/Values/FactoryUpgrade">
+		<!-- Elmer's electric oven -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<ModOp Type="replace" GUID='190907' Path="/Values/FactoryUpgrade">
+		<!-- Oriel's automatic blowing machine -->
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+</ModOps>

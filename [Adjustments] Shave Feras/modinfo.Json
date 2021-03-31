@@ -1,0 +1,52 @@
+{
+  "Version": "1",
+  "ModID": "Enkafan_ShaveFeras",
+  "IncompatibleIds": [
+    "NewHorizons"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Adjustments",
+    "French": null,
+    "German": "Anpassung",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Nastawienie",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Shave Feras",
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Nerfs Feras and improves effeciency of World Fair items",
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Phil Scott",
+  "CreatorContact": "https://github.com/phil-scott-78",
+  "Image" : null
+}
